@@ -1,0 +1,14 @@
+{
+  "resourceName": "Notesapp",
+  "policyUUID": "58b21a91",
+  "bucketName": "notesbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

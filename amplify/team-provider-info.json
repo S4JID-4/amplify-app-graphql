@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyappgraphqlfb884c66": {}
+      },
+      "api": {
+        "amplifyappgraphql": {}
+      },
+      "storage": {
+        "Notesapp": {}
       }
     }
   }
